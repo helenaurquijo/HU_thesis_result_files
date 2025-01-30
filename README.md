@@ -1,6 +1,14 @@
 # HU_thesis_result_files
 Raw result files for my thesis, entitled "Leveraging human genetics and a zebrafish model to investigate novel and repurposed drug targets for aortic valve stenosis"
 
+## Chapter 2 files
+
+Instruments for the four MR analyses (in the order they are presented in the main text):
+- modifiable_traits_instruments.txt
+- adiposity_traits_instruments.txt
+- heart_structure_instruments.txt
+- blood_cells_instruments.txt
+
 ## Chapter 3 files
 
 Locus-based analysis (all results shown on main text): 
@@ -51,3 +59,6 @@ ORA and GSEA analyses (Tables A.19 - A.23):
 - reactome_ora_avs.txt
 - reactome_ora_cad.txt
 
+MR analysis:
+- AVS_Chen_clumped.txt
+- proteins_on_AVS.mr.txt
